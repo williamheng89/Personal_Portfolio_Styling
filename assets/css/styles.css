@@ -150,7 +150,7 @@ li:has(a) {
         list-style-type: none;
         display: flex;
         margin: 1%;
-        max-width: 60dvw;
+        max-width: 80dvw;
         height: auto;
     }
 }
